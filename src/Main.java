@@ -23,7 +23,7 @@ public class Main {
             System.out.println(yil + " bir artik yildir ! ");
         }
         else{
-            System.out.println("Bir artik yil degildir");
+            System.out.println("Bir artik yil degildir ! ");
         }
     }
 }
